@@ -1,0 +1,14 @@
+#key_word,path_from_binaries_folder,width,height,divisions
+play,..\assets\images\play_button.bmp,57,25
+back,..\assets\images\back_button.bmp,57,25
+exit,..\assets\images\exit_button.bmp,57,25
+lvl1,..\assets\images\lvl1_button.bmp,57,25
+lvl2,..\assets\images\lvl2_button.bmp,57,25
+lvl3,..\assets\images\lvl3_button.bmp,57,25
+lvl4,..\assets\images\lvl4_button.bmp,57,25
+lvl5,..\assets\images\lvl5_button.bmp,57,25
+background1,..\assets\images\background1.bmp,480,270
+background2,..\assets\images\background2.bmp,480,270
+sunflower,..\assets\images\sunflower.bmp,36,36
+pea,..\assets\images\,36,36
+normal_zombie,..\assets\images\,36,36
